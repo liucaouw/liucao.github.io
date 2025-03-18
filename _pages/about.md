@@ -13,20 +13,38 @@ I'm always looking for self-motivated students in my team. If you are interested
 
 Appointments
 --
-Assistant Professor (2025/03~present)\
+- Assistant Professor (2025/03~present)\
 City University of Hong Kong (Dongguan), Dongguan, Guangdong, China
 
-Research Intern (2023/06~2023/09)\
+- Research Intern (2023/06~2023/09)\
 MediaTek, San Diego, CA, USA
 
-Research Intern (2022/06~2022/09)\
-Futurewei (), San Diego, CA, USA
+- Research Intern (2022/06~2022/09)\
+Futurewei (Huawei U.S.), San Diego, CA, USA
 
+- Teaching Assistant (2020/01~2021/06)\
+University of Washington, Seattle, WA, USA
 
 
 Education
 --
-Ph.D. (2019/09~2024/12)\
-Electrical Engineering\
-University of Washington, Seattle, USA\
+- Ph.D. (2019/09~2024/12)\
+Electrical and Computer Engineering\
+University of Washington, Seattle, WA, USA\
 Advisor: Prof. Sumit Roy (IEEE Fellow)
+
+- M.S. (2020/09~2022/06)\
+Applied Mathematics\
+University of Washington, Seattle, WA, USA
+
+- M.S. (2017/09~2019/06)\
+Electrical Engineering\
+Northwestern University, Evanston, IL, USA
+
+- B.E. (2013/09~2017/06)\
+Electrical Engineering\
+Jinan University, Guangzhou, Guangdong, China
+
+
+
+
