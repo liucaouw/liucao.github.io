@@ -14,10 +14,8 @@ I'm always looking for self-motivated students in my team. If you are interested
 
 Biography
 ===
-Assistant Professor (2025/03~present)
-
-Electronic Information Engineering
-
+Assistant Professor (2025/03~present)\\
+Electronic Information Engineering\\
 City University of Hong Kong (Dongguan), Dongguan, China
 
 Ph.D. (2019/09~2024/12)
