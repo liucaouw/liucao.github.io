@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Liu CAO (曹琉) is currently an Assistant Professor in Electronic Information Engineering at City University of Hong Kong (Dongguan).
+Dr. Liu CAO (曹琉) is currently an Assistant Professor in Electronic Information Engineering at City University of Hong Kong (Dongguan). He received a Ph.D. degree in Electrical and Computer Engineering at the University of Washington, Seattle, WA, USA. His research interest include
 
-I'm always looking for self-motivated students in my team. If you are interested, please send me your CV and transcripts!
+I'm always looking for highly self-motivated students in my team. If you are interested, please send me your CV and transcripts!
 
-Appointments
+Work experience
 --
 - Assistant Professor (2025/03~present)\
 City University of Hong Kong (Dongguan), Dongguan, Guangdong, China
@@ -40,10 +40,17 @@ University of Washington, Seattle, WA, USA
 - M.S. (2017/09~2019/06)\
 Electrical Engineering\
 Northwestern University, Evanston, IL, USA
+Advisor: Prof. Randall Berry (IEEE Fellow)
 
 - B.E. (2013/09~2017/06)\
 Electrical Engineering\
 Jinan University, Guangzhou, Guangdong, China
+
+Teaching
+--
+
+Professional Service
+--
 
 
 
