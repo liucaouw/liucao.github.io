@@ -23,7 +23,6 @@ My research primarily focuses on the cross-layer (PHY + MAC) performance analysi
 - PHY Layer Abstraction
 - 6G Non-terrestrial Networks
 - Wi-Fi Sensing
-- ...
 
 
 Appointments
