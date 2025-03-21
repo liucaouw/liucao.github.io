@@ -62,15 +62,15 @@ Jinan University, Guangzhou, Guangdong, China
 
 Selected Publications
 ======
-1. L. Cao, S. Roy, H. Yin, ‘’Resource Allocation in 5G Platoon Communication: Modeling, Analysis and Optimization,” in IEEE Transactions on Vehicular Technology, vol. 72, no. 4, pp. 5035-5048, 2022.
+1. **L. Cao**, S. Roy, H. Yin, ‘’Resource Allocation in 5G Platoon Communication: Modeling, Analysis and Optimization,” in IEEE Transactions on Vehicular Technology, vol. 72, no. 4, pp. 5035-5048, 2022.
    
-2. L. Cao, L. Zhang, S. Jin, S. Roy, “Efficient MIMO PHY Abstraction with Imperfect CSI for Fast Simulations,” in IEEE Wireless Communications Letters, vol. 12, no. 3, pp. 530-534, 2023.
+2. **L. Cao**, L. Zhang, S. Jin, S. Roy, “Efficient MIMO PHY Abstraction with Imperfect CSI for Fast Simulations,” in IEEE Wireless Communications Letters, vol. 12, no. 3, pp. 530-534, 2023.
    
-3. H. Yin, S. Roy, L. Cao (corresponding author), ‘Routing and Resource Allocation for IAB Multi-Hop Network in 5G Advanced,” in IEEE Transactions on Communications, vol. 70, no. 10, pp. 6704-6717, 2022.
+3. H. Yin, S. Roy, **L. Cao** (corresponding author), ‘Routing and Resource Allocation for IAB Multi-Hop Network in 5G Advanced,” in IEEE Transactions on Communications, vol. 70, no. 10, pp. 6704-6717, 2022.
    
-4. L. Zhang, H. Yin, S. Roy, L. Cao (corresponding author), X. Gao, V. Sathya, “IEEE 802.11 be Network Throughput Optimization with Multi-Link Operation and AP Coordination”, IEEE Internet of Things Journal, 2024.
+4. L. Zhang, H. Yin, S. Roy, **L. Cao** (corresponding author), X. Gao, V. Sathya, “IEEE 802.11 be Network Throughput Optimization with Multi-Link Operation and AP Coordination”, IEEE Internet of Things Journal, 2024.
    
-5. L. Cao, H. Yin, “Optimize Semi-Persistent Scheduling in NR-V2X: An Age-of-Information Perspective,” in IEEE Wireless Communications and Networking Conference, pp. 2053-2058, 2022.
+5. **L. Cao**, H. Yin, “Optimize Semi-Persistent Scheduling in NR-V2X: An Age-of-Information Perspective,” in IEEE Wireless Communications and Networking Conference, pp. 2053-2058, 2022.
 
 Teaching
 ======
