@@ -79,7 +79,7 @@ EE 215 Fundamentals of Electrical Engineering\
 EE 233 Circuit Theory\
 EE 416 Random Signals for Communications and Signal Processing\
 EE 505 Probability and Random Processes\
-EE 506 Fundamentals of Wireless Communications\
+EE 506 Fundamentals of Wireless Communications
 
 Professional Services
 ======
