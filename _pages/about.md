@@ -54,7 +54,7 @@ University of Washington, Seattle, WA, USA
 
 - M.S. (2017/09~2019/06)\
 Electrical Engineering\
-Northwestern University, Evanston, IL, USA
+Northwestern University, Evanston, IL, USA\
 Advisor: Prof. Randall Berry (IEEE Fellow)
 
 - B.E. (2013/09~2017/06)\
