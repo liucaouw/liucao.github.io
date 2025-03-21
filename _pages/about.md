@@ -13,7 +13,7 @@ I'm always looking for highly self-motivated undergraduates, graduates, and RAs 
 
 Email: liu.cao[at]cityu-dg[dot]edu[dot]cn
 
-Research experience
+Research Interests
 ======
 My research primarily focuses on the cross-layer (PHY + MAC) performance analysis/optimization for next-generation mobile communications aligning with 3GPP/IEEE 802.11 standard.
 
@@ -25,7 +25,7 @@ My research primarily focuses on the cross-layer (PHY + MAC) performance analysi
 - Wi-Fi Sensing
 
 
-Work Experience
+Appointments
 ======
 - Assistant Professor (2025/03~present)\
 City University of Hong Kong (Dongguan), Dongguan, Guangdong, China
