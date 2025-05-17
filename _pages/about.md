@@ -9,20 +9,19 @@ redirect_from:
 
 Dr. Liu CAO (曹琉) is currently an Assistant Professor in Electronic Information Engineering at City University of Hong Kong (Dongguan). He received a Ph.D. degree in Electrical and Computer Engineering in 2019 and an M.S. degree in Applied Mathematics at the University of Washington, Seattle, WA, USA, an M.S. degree in Electrical Engineering from Northwestern University, Evanston, IL, USA, in 2019, and a B.E. degree in Electrical Engineering from Jinan University, Guangzhou, China, in 2017. 
 
-I'm always looking for highly self-motivated undergraduates, graduates, and RAs in my team. If you are interested, please send me your CV and transcripts!
+I'm always looking for highly self-motivated PhD and RAs in my team. If you are interested, please send me your CV and transcripts!
 
 Email: liu.cao[at]cityu-dg[dot]edu[dot]cn
 
 Research Interests
 ======
-My research primarily focuses on the cross-layer (PHY + MAC) performance analysis/optimization for next-generation mobile communications aligning with 3GPP/IEEE 802.11 standard.
+My research primarily focuses on the cross-layer (PHY + MAC) performance analysis/optimization for next-generation mobile communications aligning with 3GPP/IEEE 802.11 standard, including but not limited to:
 
 - 5G/6G Cellular Vehicle-to-Everything (C-V2X)
-- Wi-Fi 6/7 Downlink Multi-User MIMO
+- Next-gen Wi-Fi techniques
 - Generative AI/ML for Wireless PHY
 - PHY Layer Abstraction
 - 6G Non-terrestrial Networks
-- Wi-Fi Sensing
 
 
 Appointments
@@ -99,5 +98,6 @@ Other
 - 2023 Workshop on ns-3 (WNS3) NR Sidelink and V2X Tutorial
 - UW ECE Master Admission Committee (2020-2022)
 - NSF Student Travel Grant for POWDER-RENEW Mobile and Wireless Week (MWW2023)
+- Talk for 2025 Nan'ao Science Conference
 
 
